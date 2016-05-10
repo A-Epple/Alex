@@ -1,0 +1,25 @@
+body {
+background: #66ffff;
+}
+
+h1 {
+	 font-size: 45px;
+	 background: #ffccff;
+}
+
+
+h2{
+color: #cc99ff; 
+background: #99ff33;
+}
+
+p {
+	color: #9900cc;
+	background: #ff3399;
+}
+
+
+img{
+	width: 500px;
+	height:  auto;
+}
