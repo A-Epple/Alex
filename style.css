@@ -20,6 +20,15 @@ p {
 
 
 img{
-	width: 500px;
+	width: 520px;
 	height:  auto;
+	display:  block;
+}  
+
+
+#blockz{
+
+  background: #b3b3ff; 
 }
+
+
